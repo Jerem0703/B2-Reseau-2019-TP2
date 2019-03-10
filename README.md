@@ -9,14 +9,16 @@
   ##### Car Server 1 ne connaît pas la route vers net12
 
 
-
+ *cf la capture TP2-Routes.PNG*
 
   ### 3/Visualisation du routage avec Wireshark :
    
    *Expliquer la différence entre les captures whireshark*
     
    #### Sur le pcap de l'interface dans net12, on remarque une requête TCP en plus
-
+   
+   
+   *cf les deux captures .pcap*
 
 ## II. NAT et services d'infra
 
